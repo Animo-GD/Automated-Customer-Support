@@ -5,3 +5,4 @@ An AI-powered support system that leverages Retrieval-Augmented Generation (RAG)
 ![Workflow](workflow.png)
 
 ## Result
+![result](result.png)
